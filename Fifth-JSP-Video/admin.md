@@ -8,4 +8,6 @@
 
     -- created a page to edit product
 
+    -- edited home.jsp page to get the list of product
+
     -- a editProductAction.jsp file which performs the edit product task
