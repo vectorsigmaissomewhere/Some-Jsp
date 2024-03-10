@@ -15,4 +15,6 @@
     -- Four we worked with removeFromCart.jsp
 
     -- Here we worked to remove the product from the cart
+
+    -- In conclusion, we learned to add product to cart, increase and decrease the stock in cart and remove the product from the cart
     
