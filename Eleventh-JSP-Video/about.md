@@ -4,6 +4,6 @@
 
     -- first we will work on with changeDetailsHeader.jsp
 
-    -- second we will work on with  changeDetails.jsp
+    -- second we will work on with changeDetails.jsp
 
     -- third we will work on with changePassword.jsp
